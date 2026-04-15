@@ -4,8 +4,8 @@ import { setCharTimeline, setAllTimeline } from "../../utils/GsapScroll";
 import { decryptFile } from "./decrypt";
 
 const setCharacter = (
-  renderer: THREE.WebGLRenderer,
-  scene: THREE.Scene,
+  _renderer: THREE.WebGLRenderer,
+  _scene: THREE.Scene,
   camera: THREE.PerspectiveCamera
 ) => {
   const loader = new GLTFLoader();
@@ -46,8 +46,6 @@ const setCharacter = (
                     
                     const name = mesh.name;
                     const parentName = mesh.parent?.name || "";
-                    
-                    const isName = (target: string) => name.includes(target) || parentName.includes(target);
 
                     const nameStr = (name + "|" + parentName).toLowerCase();
 
