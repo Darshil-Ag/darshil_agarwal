@@ -102,7 +102,11 @@ const Work = () => {
               <div className="work-title">
                 <h3>03</h3>
                 <div>
-                  <h4>Multilingual LLM Bias Reduction</h4>
+                  <h4>
+                    <a href="https://github.com/Darshil-Ag/cultural_bias" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none", cursor: "pointer" }}>
+                      Multilingual LLM Bias Reduction
+                    </a>
+                  </h4>
                   <p>AI / NLP</p>
                 </div>
               </div>
@@ -118,7 +122,11 @@ const Work = () => {
               <div className="work-title">
                 <h3>04</h3>
                 <div>
-                  <h4>Predictive Financial Identity</h4>
+                  <h4>
+                    <a href="https://github.com/Darshil-Ag/pfi" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none", cursor: "pointer" }}>
+                      Predictive Financial Identity
+                    </a>
+                  </h4>
                   <p>AI + Blockchain</p>
                 </div>
               </div>
