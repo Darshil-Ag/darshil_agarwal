@@ -6,12 +6,9 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I'm a full stack developer and AI enthusiast focused on building scalable, real-world
-          systems that solve meaningful problems. I've worked on projects ranging from healthcare
-          platforms and AI-driven risk prediction engines to cryptography-based applications and
-          real-time web systems. I enjoy combining backend engineering, machine learning, and clean
-          UI/UX to create impactful products. Currently, I'm exploring advanced AI systems,
-          blockchain-based identity models, and performance-driven web architectures.
+          I'm a Full Stack Developer & AI Engineer focused on building scalable, real-world systems. 
+          From healthcare platforms to AI-driven prediction engines, I combine deep backend engineering, 
+          machine learning, and clean UI/UX to solve complex technical problems.
         </p>
       </div>
     </div>

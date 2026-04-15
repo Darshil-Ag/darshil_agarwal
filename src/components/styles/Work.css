@@ -208,3 +208,21 @@
     height: auto;
   }
 }
+@media only screen and (max-width: 600px) {
+  .work-box {
+    width: 85vw;
+    padding: 15px;
+  }
+  .work-title h3 {
+    font-size: 28px;
+  }
+  .work-section h2 {
+    font-size: 35px;
+    margin-top: 50px;
+  }
+  .work-flex {
+    margin-left: -15px;
+    padding-right: 20px;
+  }
+}
+

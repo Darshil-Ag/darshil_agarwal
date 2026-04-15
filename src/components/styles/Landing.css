@@ -356,3 +356,22 @@ h2.landing-info-h2 {
     font-size: 75px;
   }
 }
+@media only screen and (max-width: 450px) {
+  .landing-intro h1 {
+    font-size: 25px;
+  }
+  .landing-info h2 {
+    font-size: 25px;
+    line-height: 28px;
+  }
+  h2.landing-info-h2 {
+    font-size: 32px;
+    width: 110%;
+  }
+  .landing-info {
+    bottom: 30px;
+  }
+  .character-model {
+    bottom: 20px;
+  }
+}
