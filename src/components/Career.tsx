@@ -18,7 +18,6 @@ const Career = () => {
                 <h4>Software Engineer — Full Stack</h4>
                 <h5>Aiman Healthcare</h5>
               </div>
-              <h3>2026</h3>
             </div>
             <p>
               Solely architected and deployed a production-grade full-stack healthcare platform,
@@ -33,7 +32,6 @@ const Career = () => {
                 <h4>Software Engineer</h4>
                 <h5>Sankalp Sewa Sansthan</h5>
               </div>
-              <h3>2025</h3>
             </div>
             <p>
               Developed and deployed a production-ready NGO platform enabling secure online
@@ -48,7 +46,6 @@ const Career = () => {
                 <h4>Software Engineering Intern</h4>
                 <h5>WebArcLight</h5>
               </div>
-              <h3>2025</h3>
             </div>
             <p>
               Delivered client-facing production websites end-to-end, handling development,

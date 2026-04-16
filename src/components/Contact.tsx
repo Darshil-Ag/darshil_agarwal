@@ -53,7 +53,7 @@ const Contact = () => {
               Designed and Developed <br /> by <span>Darshil Agarwal</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright />
             </h5>
           </div>
         </div>
